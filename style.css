@@ -1,0 +1,152 @@
+#wrapper 
+{
+	width: 100%;
+	margin: auto 0;
+	color: #636e72;
+}
+
+#wrapper h1
+{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 25px;
+}
+
+#wrapper h3
+{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 15px;
+}
+
+
+#header
+{
+	width: 100%;
+	height: 50px;
+	background: #ecf4f3;
+	margin-bottom: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	background-color: #68b0ab;
+}	
+
+#header a
+{
+	margin-top: 10px;
+	margin-left: 185px;
+	text-decoration: none;
+	color: #1d2d50;
+	background-color: #edcfa9;
+	width: 150px;
+	padding: 5px 20px;
+	text-align: center;
+	border-radius: 5px;
+	display: inline-block;
+	list-style: none;
+}
+
+#content
+{
+	padding: 20px;
+	background: #e8ffff;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+#artikel
+{
+	width: 600px;
+	height: 1000px;
+	float: left;
+	
+}
+
+#artikel h3
+{
+	margin: 10px;
+	position: relative;
+	text-align: center;
+	color: #34495e;
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 25px;
+
+}
+
+#artikel img
+{
+	width: 190px;
+	height: 170px;
+	margin-left: 200px;
+}
+
+#artikel p
+{
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 15px;
+	text-align: justify-all;
+	color: #2c2c54;
+
+}
+
+
+#sidebar
+{
+	width: 300px;
+	height: 200px;
+	float: right;
+	background: #c7ecee;
+}
+
+#sidebar h3
+{
+	font-family: "Copperplate Light", "Copperplate Gothic Light", serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+#sidebar a
+{
+	position: relative;
+	text-decoration: none;
+	text-align: center;
+	font-size: 15px;
+	display: inline-block;
+	margin: 15px;
+}
+
+#sidebar img
+{
+	position: relative;
+	margin: 35px;
+	margin-top: 50px;
+	display: inline-block;
+
+}
+
+#footer
+{
+	width: 100%;
+	height: 50px;
+	background: #2a3d66;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #ecf0f1;
+}
+
+#footer h3	
+{
+	position: relative;
+	font-size: 15px;
+	float: left;
+	left: 10px;
+	
+}
+
+#footer h2
+{
+	position: relative;
+	font-size: 15px;
+	right: 10px;
+	top: 5px;
+	float: right;
+}
